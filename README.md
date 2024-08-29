@@ -1,4 +1,6 @@
-# Cloud189Checkin
+#自用勿扰
+
+# 他的：[Cloud189Checkin](https://github.com/wes-lin/Cloud189Checkin)
 
 天翼网盘自动签到（随机容量) 和抽奖（两次，每次 50M，共 150M）获取空间，家庭空间签到（随机容量）。
 

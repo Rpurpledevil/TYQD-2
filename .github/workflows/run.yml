@@ -1,4 +1,4 @@
-name: 签到
+name: Cloud check in action
 on:
   push:
     branches:

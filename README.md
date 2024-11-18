@@ -1,4 +1,4 @@
-#自用勿扰
+#自用勿扰  #WxPusher 推送：把UID改成你自己的，不然消息全推送到我那去了
 
 # 他的：[Cloud189Checkin](https://github.com/wes-lin/Cloud189Checkin)
 
